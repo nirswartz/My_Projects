@@ -1,10 +1,7 @@
 /**
- *
  * AVLTree
- *
- * An implementation of a AVL Tree with
- * distinct integer keys and info
- *
+ * An implementation of a AVL Tree with distinct integer keys and info
+ * Made by Nir Swartz and Sonia Moushaev as part of Data Structures course in TAU.
  */
 
 public class AVLTree {
