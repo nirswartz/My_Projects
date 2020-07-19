@@ -1,2 +1,3 @@
 # myProjects
-Those are projects which I made
+Those are projects which I did during my studies in Tel Aviv University.
+
