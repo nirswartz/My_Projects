@@ -1,7 +1,7 @@
 /**
  * FibonacciHeap
- *
  * An implementation of fibonacci heap over integers.
+ * Made by Nir Swartz and Sonia Moushaev as part of Data Structures course in TAU.
  */
 public class FibonacciHeap
 {
